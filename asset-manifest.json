@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Label-React-build/static/css/main.ef4da88d.css",
+    "main.js": "/Label-React-build/static/js/main.1289ddee.js",
+    "index.html": "/Label-React-build/index.html",
+    "main.ef4da88d.css.map": "/Label-React-build/static/css/main.ef4da88d.css.map",
+    "main.1289ddee.js.map": "/Label-React-build/static/js/main.1289ddee.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ef4da88d.css",
+    "static/js/main.1289ddee.js"
+  ]
+}
